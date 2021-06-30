@@ -12,10 +12,11 @@ header {
     color: hsl(0, 41%, 95%);
     height: 100%;
     width: 100%;
-    margin-left: 2%;
+    /* margin-left: 2%; */
     margin-right: 2%;
-    margin-top: 2%;
+    /* margin-top: 2%; */
     margin-bottom: 2%;
+   
 }
 
 /*  1 */
@@ -141,8 +142,9 @@ footer {
     height: 90px;
     background-color: #3d4044;;
     margin-bottom:1% ;
-    margin-left:2% ;
+    /* margin-left:2% ; */
     margin-right:2%;
+    width: 100%;
   }
   
 button {
